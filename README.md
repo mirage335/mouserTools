@@ -6,7 +6,9 @@ If the component is part of the project, a reference designator will be read out
 
 # Future Work
 *) Keep watch on Mouser PDF file format.
+
 *) Request Mouser maintain PDF format, or offer plain text invoice component lists.
+
 *) Support more standaradized Centroid X/Y file and KiCAD.
 
 # License
